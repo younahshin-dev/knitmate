@@ -1,0 +1,28 @@
+{
+  "_guide": "기법별 추천 영상 큐레이션 목록. videos 배열에 직접 확인한 영상을 {title, channel, url, level} 형태로 추가하세요. 비어 있으면 YouTube API(키가 있을 때) 또는 YouTube 검색 링크로 대체됩니다. 서비스는 이 파일과 API 결과에 있는 URL만 사용자에게 보여 줍니다.",
+  "techniques": [
+    {"id": "knit_cast_on", "craft": "knit", "names": ["코잡기", "손가락 코잡기", "cast on", "long tail cast on"], "query": "대바늘 손가락 코잡기 초보", "videos": []},
+    {"id": "knit_k", "craft": "knit", "names": ["겉뜨기", "knit stitch"], "query": "대바늘 겉뜨기 뜨는 법", "videos": []},
+    {"id": "knit_p", "craft": "knit", "names": ["안뜨기", "purl stitch"], "query": "대바늘 안뜨기 뜨는 법", "videos": []},
+    {"id": "knit_rib", "craft": "knit", "names": ["고무뜨기", "1x1 고무뜨기", "2x2 고무뜨기", "ribbing"], "query": "대바늘 고무뜨기", "videos": []},
+    {"id": "knit_yo", "craft": "knit", "names": ["바늘비우기", "yo", "yarn over", "걸기코"], "query": "대바늘 바늘비우기 yo", "videos": []},
+    {"id": "knit_m1", "craft": "knit", "names": ["꼬아 늘리기", "m1", "m1l", "m1r", "코늘리기"], "query": "대바늘 M1L M1R 꼬아 늘리기", "videos": []},
+    {"id": "knit_kfb", "craft": "knit", "names": ["앞뒤로 떠서 늘리기", "kfb"], "query": "대바늘 kfb 늘리기", "videos": []},
+    {"id": "knit_k2tog", "craft": "knit", "names": ["왼코 겹쳐 2코 모아뜨기", "k2tog", "2코 모아뜨기"], "query": "대바늘 왼코 겹쳐 2코 모아뜨기 k2tog", "videos": []},
+    {"id": "knit_ssk", "craft": "knit", "names": ["오른코 겹쳐 2코 모아뜨기", "ssk"], "query": "대바늘 오른코 겹쳐 2코 모아뜨기 ssk", "videos": []},
+    {"id": "knit_s2kp", "craft": "knit", "names": ["중심 3코 모아뜨기", "s2kp", "cdd"], "query": "대바늘 중심 3코 모아뜨기", "videos": []},
+    {"id": "knit_bo", "craft": "knit", "names": ["코막음", "bind off", "덮어씌워 코막음"], "query": "대바늘 덮어씌워 코막음", "videos": []},
+    {"id": "knit_round", "craft": "knit", "names": ["원통뜨기", "줄바늘 원통뜨기", "knitting in the round"], "query": "대바늘 줄바늘 원통뜨기 시작", "videos": []},
+    {"id": "knit_gauge", "craft": "knit", "names": ["게이지", "스와치", "gauge swatch"], "query": "뜨개질 게이지 스와치 재는 법", "videos": []},
+    {"id": "cro_ch", "craft": "crochet", "names": ["사슬뜨기", "사슬", "chain"], "query": "코바늘 사슬뜨기 기초", "videos": []},
+    {"id": "cro_slst", "craft": "crochet", "names": ["빼뜨기", "slip stitch", "sl st"], "query": "코바늘 빼뜨기", "videos": []},
+    {"id": "cro_sc", "craft": "crochet", "names": ["짧은뜨기", "single crochet", "sc"], "query": "코바늘 짧은뜨기", "videos": []},
+    {"id": "cro_hdc", "craft": "crochet", "names": ["긴뜨기", "half double crochet", "hdc"], "query": "코바늘 긴뜨기", "videos": []},
+    {"id": "cro_dc", "craft": "crochet", "names": ["한길긴뜨기", "한길 긴뜨기", "double crochet", "dc"], "query": "코바늘 한길긴뜨기", "videos": []},
+    {"id": "cro_tr", "craft": "crochet", "names": ["두길긴뜨기", "두길 긴뜨기", "treble crochet", "tr"], "query": "코바늘 두길긴뜨기", "videos": []},
+    {"id": "cro_mr", "craft": "crochet", "names": ["원형코", "매직링", "magic ring"], "query": "코바늘 원형코 매직링 만들기", "videos": []},
+    {"id": "cro_inc", "craft": "crochet", "names": ["늘려뜨기", "코늘림", "increase"], "query": "코바늘 짧은뜨기 늘려뜨기", "videos": []},
+    {"id": "cro_dec", "craft": "crochet", "names": ["줄여뜨기", "2코 모아뜨기", "sc2tog", "decrease"], "query": "코바늘 짧은뜨기 2코 모아뜨기", "videos": []},
+    {"id": "cro_circle", "craft": "crochet", "names": ["원형뜨기", "코스터", "원형 바닥"], "query": "코바늘 원형 코스터 뜨기 초보", "videos": []}
+  ]
+}

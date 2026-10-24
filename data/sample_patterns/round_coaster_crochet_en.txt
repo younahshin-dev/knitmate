@@ -1,0 +1,12 @@
+Round Coaster (Crochet, US terms, worked in rounds)
+Original sample pattern for KnitMate demo. Free to use.
+
+Materials: Worsted weight cotton yarn, about 10 g. 4.0 mm crochet hook.
+
+Make a magic ring.
+Rnd 1: Ch 1 (does not count as st), 6 sc in ring, sl st to first sc to join. (6 sts)
+Rnd 2: Ch 1, 2 sc in each st around, sl st to first sc. (12 sts)
+Rnd 3: Ch 1, *sc in next st, 2 sc in next st; rep from * around, sl st to first sc. (18 sts)
+Rnd 4: Ch 1, *sc in next 2 sts, 2 sc in next st; rep from * around, sl st to first sc. (24 sts)
+Rnd 5: Ch 3 (counts as dc), dc in same st, dc in next 3 sts, *2 dc in next st, dc in next 3 sts; rep from * around, sl st to top of beginning ch-3. (30 sts)
+Fasten off and weave in ends.

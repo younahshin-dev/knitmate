@@ -1,0 +1,18 @@
+Mini Lace Coaster (Knitting, worked flat)
+Original sample pattern for KnitMate demo. Free to use.
+
+Materials: DK weight cotton yarn, about 15 g. 4.0 mm needles.
+Gauge: 20 sts x 28 rows = 10 cm in stockinette stitch (not critical).
+
+CO 15 sts.
+Row 1 (WS): Knit.
+Row 2 (RS): K1, *yo, k2tog; rep from * to end. (15 sts)
+Row 3 (WS): K1, p to last st, k1.
+Row 4 (RS): K2, *yo, ssk, k1; rep from * to last st, k1. (15 sts)
+Row 5 (WS): K1, p to last st, k1.
+Rows 6-9: Rep Rows 2-5.
+Row 10 (RS): K1, ssk, k to last 3 sts, k2tog, k1. (13 sts)
+Row 11 (WS): K1, p to last st, k1.
+Rows 12-15: Rep Rows 10-11 twice. (9 sts)
+Row 16 (RS): Knit.
+BO all sts knitwise. Weave in ends and block.

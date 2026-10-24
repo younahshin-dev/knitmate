@@ -1,0 +1,28 @@
+{
+  "reasoning": "대바늘 평면뜨기 도안. CO 15. 1단은 WS 전부 겉뜨기. 2·4단은 레이스 반복 단, 3·5단은 양끝 1코 겉뜨기 + 안뜨기. 6~9단은 2~5단 반복. 10단부터 양끝 줄임, 12~15단은 10~11단을 두 번 반복. 16단 겉뜨기 후 코막음.",
+  "title": "미니 레이스 코스터",
+  "craft": "knit",
+  "terminology": "US",
+  "cast_on": 15,
+  "start_method": "손가락 코잡기 15코",
+  "rows": [
+    {"row_start": 1, "row_end": 1, "kind": "row", "side": "WS", "segments": [{"ops": [{"code": "k"}], "times": 1, "repeat_to_end": true}], "stated_count": null, "instruction_ko": "(안면) 모두 겉뜨기"},
+    {"row_start": 2, "row_end": 2, "kind": "row", "side": "RS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "yo"}, {"code": "k2tog"}], "times": 1, "repeat_to_end": true}], "stated_count": 15, "instruction_ko": "(겉면) 겉뜨기 1, [바늘비우기, 왼코 겹쳐 2코 모아뜨기]를 끝까지 반복"},
+    {"row_start": 3, "row_end": 3, "kind": "row", "side": "WS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "p"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": null, "instruction_ko": "(안면) 겉뜨기 1, 마지막 1코 전까지 안뜨기, 겉뜨기 1"},
+    {"row_start": 4, "row_end": 4, "kind": "row", "side": "RS", "segments": [{"ops": [{"code": "k", "count": 2}], "times": 1}, {"ops": [{"code": "yo"}, {"code": "ssk"}, {"code": "k"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": 15, "instruction_ko": "(겉면) 겉뜨기 2, [바늘비우기, 오른코 겹쳐 2코 모아뜨기, 겉뜨기 1]을 마지막 1코 전까지 반복, 겉뜨기 1"},
+    {"row_start": 5, "row_end": 5, "kind": "row", "side": "WS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "p"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": null, "instruction_ko": "(안면) 겉뜨기 1, 마지막 1코 전까지 안뜨기, 겉뜨기 1"},
+    {"row_start": 6, "row_end": 6, "kind": "row", "side": "RS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "yo"}, {"code": "k2tog"}], "times": 1, "repeat_to_end": true}], "stated_count": 15, "instruction_ko": "(겉면) 2단과 같이: 겉뜨기 1, [바늘비우기, 왼코 겹쳐 2코 모아뜨기] 반복"},
+    {"row_start": 7, "row_end": 7, "kind": "row", "side": "WS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "p"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": null, "instruction_ko": "(안면) 3단과 같이: 겉뜨기 1, 안뜨기, 겉뜨기 1"},
+    {"row_start": 8, "row_end": 8, "kind": "row", "side": "RS", "segments": [{"ops": [{"code": "k", "count": 2}], "times": 1}, {"ops": [{"code": "yo"}, {"code": "ssk"}, {"code": "k"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": 15, "instruction_ko": "(겉면) 4단과 같이: 겉뜨기 2, [바늘비우기, 오른코 겹쳐 2코 모아뜨기, 겉뜨기 1] 반복, 겉뜨기 1"},
+    {"row_start": 9, "row_end": 9, "kind": "row", "side": "WS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "p"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": null, "instruction_ko": "(안면) 5단과 같이: 겉뜨기 1, 안뜨기, 겉뜨기 1"},
+    {"row_start": 10, "row_end": 10, "kind": "row", "side": "RS", "segments": [{"ops": [{"code": "k"}, {"code": "ssk"}], "times": 1}, {"ops": [{"code": "k"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k2tog"}, {"code": "k"}], "times": 1}], "stated_count": 13, "instruction_ko": "(겉면) 겉뜨기 1, 오른코 겹쳐 2코 모아뜨기, 마지막 3코 전까지 겉뜨기, 왼코 겹쳐 2코 모아뜨기, 겉뜨기 1 (2코 줄임)"},
+    {"row_start": 11, "row_end": 11, "kind": "row", "side": "WS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "p"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": null, "instruction_ko": "(안면) 겉뜨기 1, 안뜨기, 겉뜨기 1"},
+    {"row_start": 12, "row_end": 12, "kind": "row", "side": "RS", "segments": [{"ops": [{"code": "k"}, {"code": "ssk"}], "times": 1}, {"ops": [{"code": "k"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k2tog"}, {"code": "k"}], "times": 1}], "stated_count": null, "instruction_ko": "(겉면) 10단과 같이 양끝 2코 줄임"},
+    {"row_start": 13, "row_end": 13, "kind": "row", "side": "WS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "p"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": null, "instruction_ko": "(안면) 겉뜨기 1, 안뜨기, 겉뜨기 1"},
+    {"row_start": 14, "row_end": 14, "kind": "row", "side": "RS", "segments": [{"ops": [{"code": "k"}, {"code": "ssk"}], "times": 1}, {"ops": [{"code": "k"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k2tog"}, {"code": "k"}], "times": 1}], "stated_count": null, "instruction_ko": "(겉면) 10단과 같이 양끝 2코 줄임"},
+    {"row_start": 15, "row_end": 15, "kind": "row", "side": "WS", "segments": [{"ops": [{"code": "k"}], "times": 1}, {"ops": [{"code": "p"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "k"}], "times": 1}], "stated_count": 9, "instruction_ko": "(안면) 겉뜨기 1, 안뜨기, 겉뜨기 1"},
+    {"row_start": 16, "row_end": 16, "kind": "row", "side": "RS", "segments": [{"ops": [{"code": "k"}], "times": 1, "repeat_to_end": true}], "stated_count": null, "instruction_ko": "(겉면) 모두 겉뜨기"}
+  ],
+  "finishing_ko": "모든 코를 겉뜨기로 덮어씌워 코막음한 뒤 실 정리, 블로킹",
+  "notes": ["'Rows 6-9: Rep Rows 2-5'와 'Rows 12-15: Rep Rows 10-11 twice'를 단별로 펼쳐 기록했습니다."]
+}

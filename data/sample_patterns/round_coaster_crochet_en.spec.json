@@ -1,0 +1,17 @@
+{
+  "reasoning": "코바늘, 미국식 용어(sc가 나옴). 매직링 시작이므로 cast_on=0. 1단 기둥사슬 1코는 코로 세지 않음(ch consumes 0 produces 0), 링 안에 짧은뜨기 6코(consumes 0), 단 닫는 빼뜨기는 0/0. 2~4단은 매 단 6코씩 늘림. 5단은 기둥사슬 3코가 첫 한길긴뜨기로 세어지고 같은 코에 한길긴뜨기 1코를 더 떠서 첫 코가 늘림이 됨.",
+  "title": "원형 코스터",
+  "craft": "crochet",
+  "terminology": "US",
+  "cast_on": 0,
+  "start_method": "원형코(매직링)",
+  "rows": [
+    {"row_start": 1, "row_end": 1, "kind": "round", "side": "any", "segments": [{"ops": [{"code": "ch", "consumes": 0, "produces": 0, "note": "기둥사슬, 코로 세지 않음"}, {"code": "sc", "count": 6, "consumes": 0, "note": "링 안에 뜸"}, {"code": "slst", "consumes": 0, "produces": 0, "note": "단 닫기"}], "times": 1}], "stated_count": 6, "instruction_ko": "기둥사슬 1코, 원형코 안에 짧은뜨기 6코, 첫 코에 빼뜨기로 닫기"},
+    {"row_start": 2, "row_end": 2, "kind": "round", "side": "any", "segments": [{"ops": [{"code": "ch", "consumes": 0, "produces": 0}], "times": 1}, {"ops": [{"code": "inc"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "slst", "consumes": 0, "produces": 0}], "times": 1}], "stated_count": 12, "instruction_ko": "기둥사슬 1코, 모든 코에 짧은뜨기 늘려뜨기(한 코에 2코), 빼뜨기로 닫기"},
+    {"row_start": 3, "row_end": 3, "kind": "round", "side": "any", "segments": [{"ops": [{"code": "ch", "consumes": 0, "produces": 0}], "times": 1}, {"ops": [{"code": "sc"}, {"code": "inc"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "slst", "consumes": 0, "produces": 0}], "times": 1}], "stated_count": 18, "instruction_ko": "기둥사슬 1코, [짧은뜨기 1, 늘려뜨기 1]을 한 바퀴 반복, 빼뜨기로 닫기"},
+    {"row_start": 4, "row_end": 4, "kind": "round", "side": "any", "segments": [{"ops": [{"code": "ch", "consumes": 0, "produces": 0}], "times": 1}, {"ops": [{"code": "sc", "count": 2}, {"code": "inc"}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "slst", "consumes": 0, "produces": 0}], "times": 1}], "stated_count": 24, "instruction_ko": "기둥사슬 1코, [짧은뜨기 2, 늘려뜨기 1]을 한 바퀴 반복, 빼뜨기로 닫기"},
+    {"row_start": 5, "row_end": 5, "kind": "round", "side": "any", "segments": [{"ops": [{"code": "ch", "consumes": 1, "produces": 1, "note": "기둥사슬 3코 = 한길긴뜨기 1코"}, {"code": "dc", "consumes": 0, "note": "같은 코에"}, {"code": "dc", "count": 3}], "times": 1}, {"ops": [{"code": "inc", "note": "한길긴뜨기 늘려뜨기"}, {"code": "dc", "count": 3}], "times": 1, "repeat_to_end": true}, {"ops": [{"code": "slst", "consumes": 0, "produces": 0}], "times": 1}], "stated_count": 30, "instruction_ko": "기둥사슬 3코(첫 한길긴뜨기), 같은 코에 한길긴뜨기 1, 다음 3코에 한길긴뜨기, [늘려뜨기 1, 한길긴뜨기 3]을 반복, 기둥사슬 꼭대기에 빼뜨기"}
+  ],
+  "finishing_ko": "실을 자르고 마무리, 실 정리",
+  "notes": ["5단 늘려뜨기는 한길긴뜨기로 뜹니다."]
+}
